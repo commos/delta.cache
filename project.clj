@@ -1,5 +1,5 @@
 (defproject org.commos/delta.cache "0.1.0"
-  :description "Async commos.delta caching facilities"
+  :description "commos.delta agnostic caching services"
   :url "http://github.com/commos/delta.cache"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
